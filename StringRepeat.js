@@ -8,4 +8,3 @@ for(let i=0;i<n;i++){
 
 return str
 }
-console.log(repeatStr(2,'hello'))

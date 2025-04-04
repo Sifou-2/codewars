@@ -17,4 +17,3 @@ sum=sum-min-max
 return sum
 }
 arr=[ 0, 1, 6, 10, 10 ]
-console.log(sumArray(arr))
