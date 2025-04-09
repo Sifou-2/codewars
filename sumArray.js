@@ -16,4 +16,4 @@ sum+=arr[i]
 sum=sum-min-max
 return sum
 }
-arr=[ 0, 1, 6, 10, 10 ]
+
